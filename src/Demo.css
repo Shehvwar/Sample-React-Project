@@ -1,0 +1,9 @@
+.main_class
+{
+    background-color: aqua;
+    text-align: center;
+    border:20px ;
+    border-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
